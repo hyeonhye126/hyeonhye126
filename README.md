@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- 배너 이미지 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20👋&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Welcome%20to%20Hyeonhye's%20Github!%20👋&fontSize=40" />
 
 ## 🙋‍♀️ About Me
 - 🔥 클라우드와 인프라에 관심이 많은 개발자 박현혜입니다.
-- 📚 컴퓨터 네트워크, AWS 클라우드 아키텍처에 대한 학습을 꾸준히 이어가고 있습니다.
+- 📚 컴퓨터 네트워크, 클라우드 아키텍처, Kubernetes, DevOps에 대해 꾸준히 학습하고 있습니다.
 - 🌱 Site Reliability Engineering(SRE) 직무를 목표로 성장 중입니다.
-- ✉️ Contact: your.email@example.com
+- ✉️ Contact: hyeonhye126@gmail.com
 
 ## 🛠️ Tech Stack
 
@@ -50,9 +50,28 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=default)
+
+<div align="center">
+  
+  ![Hyeonhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=default)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact)
+
+</div>
 
 ---
 
 ## 🐾 GitAnimals
-<img src="https://ghchart.rshah.org/your-github-id" alt="GitHub Contributions Chart" />
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-id&theme=default" alt="GitHub Streak" />
+  
+</div>
+
+---
+
+<!-- Footer처럼 귀여운 문구 -->
+<p align="center">
+  ✨ 꾸준히 성장하는 개발자가 되겠습니다 ✨
+</p>
