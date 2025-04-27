@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <table>
   <thead>
     <tr>
-      <th align="center" width="150px">프로젝트명</th>
+      <th align="center" width="140px">프로젝트명</th>
       <th align="center" width="350px">설명</th>
       <th align="center" width="200px">기간</th>
       <th align="center" width="260px">역할</th>
