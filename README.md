@@ -39,31 +39,32 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
 
+
+<summary>🎓 Education</summary>
+
+- **세종대학교** (2019.03 ~ 2025.08)  
+  주전공: 지능기전공학부 무인이동체공학과 (소프트웨어융합대학)  
+  복수전공: 생명시스템학부 바이오융합공학과 (생명과학대학)
+
+- **경기여자고등학교** (2015.03 ~ 2018.02)  
+  
+<summary>🏅 Certifications</summary>
+
+- **SQLD (SQL 개발자)**  
+  취득일: 2025.04.04 | 등록번호: SQLD-056005023
+
+- **ADSP (데이터분석준전문가)**  
+  취득일: 2024.11.29 | 등록번호: ADsP-043003838
+
+- **TOEIC Speaking Test - IH (Intermediate High, 150점)**  
+  취득일: 2024.11.24 | 등록번호: 103418
+
 ---
 
 ## 🚀 Projects
 | 프로젝트명 | 설명 | 기간 | 역할 |
 |:---|:---|:---|:---|
 | Devita | 개발자 맞춤 미션 추천 서비스 | 2024.09 ~ 2024.12 | AI / LLM 기반 미션 생성 |
-
----
-
-## 🎓 Education
-
-| 학교명 | 전공 | 기간 | 비고 |
-|:---|:---|:---|:---|
-| 세종대학교 | 주전공: 지능기전공학부 무인이동체공학과 (소프트웨어융합대학)<br>복수전공: 생명시스템학부 바이오융합공학과 (생명과학대학) | 2019.03 ~ 2025.08 |
-| 경기여자고등학교 | 자연계 | 2015.03 ~ 2018.02 |
-
----
-
-## 🏅 Certifications
-
-| 자격증명 | 취득일 | 등록번호 |
-|:---|:---|:---|
-| SQLD (SQL 개발자) | 2025.04.04 |
-| ADSP (데이터분석준전문가) | 2024.11.29 |
-| TOEIC Speaking Test - IH (Intermediate High, 150점) | 2024.11.24|
 
 ---
 
