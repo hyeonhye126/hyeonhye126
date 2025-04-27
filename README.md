@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ## 🚀 Projects
 | 프로젝트명 | 설명 | 기간 | 역할 |
 |:---|:---|:---|:---|
-| Devita | 개발자 맞춤 미션 추천 서비스 | 2024.09 ~ 2024.12 | [AI] LLM 기반 미션 생성 |
+| Devita | 개발자 맞춤 미션 추천 서비스 | 2024.09 ~ 2024.12 | AI / LLM 기반 미션 생성 |
 
 ---
 
