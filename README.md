@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hyeonhye126&theme=default" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/hyeonhye126/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution" />
 
 </div>
 
