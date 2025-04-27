@@ -49,11 +49,30 @@ Here are some ideas to get you started:
 <br>
 
 ## 🚀 Projects
-| 프로젝트명 | 설명 | 기간 | 역할 |
-|:---|:---|:---|:---|
-| Devita | 개발자 맞춤 미션 추천 서비스 | 2024.09 ~ 2024.12 | AI / LLM 기반 미션 생성 |
-| Cheer You | 현대인의 우울증 완화를 위한 심리 상담 APP | 2024.03 ~ 2024.06 | AI / 심리 상담 기능 기획 및 개발 |
-| SBA (Smart Beauty Algorithm) | 스킨케어 화장품 추천 웹 서비스 | 2023.09 ~ 2024.01 | AI / 데이터 기반 추천 기능 구현 |
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="180px">프로젝트명</th>
+      <th align="center" width="350px">설명</th>
+      <th align="center" width="180px">기간</th>
+      <th align="center" width="260px">역할</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Devita</td>
+      <td>개발자 맞춤 미션 추천 서비스</td>
+      <td align="center">2024.09 ~ 2024.12</td>
+      <td>AI / LLM 기반 미션 생성</td>
+    </tr>
+    <tr>
+      <td align="center">Cheer You</td>
+      <td>현대인의 우울증 완화를 위한 심리 상담 APP</td>
+      <td align="center">2024.03 ~ 2024.06</td>
+      <td>AI / 심리 상담 기능 기획 및 개발</td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
