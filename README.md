@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 🌱 Site Reliability Engineering(SRE) 직무를 목표로 성장 중입니다.
 - ✉️ Contact: hyeonhye126@gmail.com
 
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -41,12 +42,14 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
 
+<br>
 
 ## 🚀 Projects
 | 프로젝트명 | 설명 | 기간 | 역할 |
 |:---|:---|:---|:---|
 | Devita | 개발자 맞춤 미션 추천 서비스 | 2024.09 ~ 2024.12 | AI / LLM 기반 미션 생성 |
 
+<br>
 
 ## 🏅 Certifications
 
@@ -59,6 +62,7 @@ Here are some ideas to get you started:
 - **TOEIC Speaking Test - IH (Intermediate High)**  
   취득일: 2024.11.24  
 
+<br>
 
 ## 🎓 Education
 
@@ -68,6 +72,7 @@ Here are some ideas to get you started:
 
 - **경기여자고등학교** (2015.03 ~ 2018.02)  
 
+<br>
 
 ## 📊 GitHub Stats
 
@@ -79,6 +84,7 @@ Here are some ideas to get you started:
 
 </div>  
 
+<br>
 
 ## 🏅 Baekjoon Tier
 
@@ -88,6 +94,7 @@ Here are some ideas to get you started:
 
 </div>  
 
+<br>
 
 <!-- Footer처럼 귀여운 문구 -->
 <p align="center">
