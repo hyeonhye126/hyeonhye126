@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=your-baekjoon-id" alt="baekjoon" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeonhye126" alt="baekjoon" />
 
 </div>
 
