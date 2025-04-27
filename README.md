@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![Hyeonhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=default)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact)
+
+  ![Hyeonhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonhye126&show_icons=true&theme=default)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonhye126&layout=compact)
 
 </div>
 
@@ -64,9 +64,19 @@ Here are some ideas to get you started:
 ## 🐾 GitAnimals
 
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-id&theme=default" alt="GitHub Streak" />
-  
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hyeonhye126&theme=default" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏅 Baekjoon Tier
+
+<div align="center">
+
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=your-baekjoon-id" alt="baekjoon" />
+
 </div>
 
 ---
