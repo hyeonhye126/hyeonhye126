@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ## 🙋‍♀️ About Me
 - 🔥 클라우드, 인프라, AI 기술에 관심이 많은 개발자 박현혜입니다.
 - 📚 컴퓨터 네트워크, 클라우드 아키텍처, Kubernetes, DevOps에 대해 꾸준히 학습하고 있습니다.
-- 🌱 Site Reliability Engineering(SRE) 직무를 목표로 성장 중입니다.
 - ✉️ Contact: hyeonhye126@gmail.com
 
 <br>
