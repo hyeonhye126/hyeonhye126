@@ -68,6 +68,16 @@ Here are some ideas to get you started:
 | [Boda](https://github.com/hyeonhye126/ktb-boda-hh) | 여행지 추천 모델 및 Flask API 구현 | 2024.09 ~ 2024.10 | AI / ML 모델 학습, API 일부 설계 |
 | [SBA Cosmetic Recommender](https://github.com/hyeonhye126/sba-cosmetic-recommender) | 리뷰 점수를 기반으로 한 화장품 추천 시스템 | 2023.12 ~ 2024.01 | AI / 추천 기능 구현 |
 
+## 🚀 Projects
+
+| 프로젝트명 | 설명 | 기간 | 역할 |
+|------------|------|------|------|
+| [Devita](https://github.com/ktb-devita-hh) | 개발자 맞춤 미션 추천 서비스 | 2024.09 ~ 2024.12 | AI / LLM 기반 미션 생성 |
+| [Cheer You](https://github.com/cheeryou-capstone-hh) | 현대인의 우울증 완화를 위한<br>심리 상담 APP | 2024.03 ~ 2024.06 | AI / 심리 상담 기능 기획 및 개발 |
+| [Boda](https://github.com/ktb-boda-hh) | 여행지 추천 모델 및<br>Flask API 구현 | 2024.09 ~ 2024.10 | AI / ML 모델 학습, API 일부 설계 |
+| [SBA Cosmetic Recommender](https://github.com/hyeonhye126/sba-cosmetic-recommender) | 리뷰 점수를 기반으로 한<br>화장품 추천 시스템 | 2023.12 ~ 2024.01 | AI / 추천 기능 구현 |
+
+
 <br>
 
 ## 🏅 Baekjoon Tier
