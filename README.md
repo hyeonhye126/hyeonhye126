@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <br>
 
 ## 🛠 Tech Stack  
-**Languages**: Python  
-**Cloud / Infra**: AWS, Docker  
-**AI Frameworks**: PyTorch, LangChain  
-**Tools**: Git, VSCode, Notion, Jira
+- **Languages**: Python  
+- **Cloud / Infra**: AWS, Docker  
+- **AI Frameworks**: PyTorch, LangChain  
+- **Tools**: Git, VSCode, Notion, Jira
 
 <br>
 
