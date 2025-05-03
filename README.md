@@ -60,30 +60,13 @@ Here are some ideas to get you started:
 <br>
 
 ## 🚀 Projects
-<table>
-  <thead>
-    <tr>
-      <th align="center" width="140px">프로젝트명</th>
-      <th align="center" width="350px">설명</th>
-      <th align="center" width="200px">기간</th>
-      <th align="center" width="260px">역할</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Devita</td>
-      <td>개발자 맞춤 미션 추천 서비스</td>
-      <td align="center">2024.09 ~ 2024.12</td>
-      <td>AI / LLM 기반 미션 생성</td>
-    </tr>
-    <tr>
-      <td align="center">Cheer You</td>
-      <td>현대인의 우울증 완화를 위한 심리 상담 APP</td>
-      <td align="center">2024.03 ~ 2024.06</td>
-      <td>AI / 심리 상담 기능 기획 및 개발</td>
-    </tr>
-  </tbody>
-</table>
+
+| 프로젝트명 | 설명 | 기간 | 역할 |
+|-----------|------|------|------|
+| [Devita](https://github.com/hyeonhye126/ktb-devita-hh) | 개발자 맞춤 미션 추천 서비스 | 2024.09 ~ 2024.12 | AI / LLM 기반 미션 생성 |
+| [Cheer You](https://github.com/hyeonhye126/cheeryou-capstone-hh) | 현대인의 우울증 완화를 위한 심리 상담 APP | 2024.03 ~ 2024.06 | AI / 심리 상담 기능 기획 및 개발 |
+| [Boda](https://github.com/hyeonhye126/ktb-boda-hh) | 여행지 추천 모델 및 Flask API 구현 | 2024.09 ~ 2024.10 | AI / ML 모델 학습, API 일부 설계 |
+| [SBA Cosmetic Recommender](https://github.com/hyeonhye126/sba-cosmetic-recommender) | 리뷰 점수를 기반으로 한 화장품 추천 시스템 | 2023.12 ~ 2024.01 | AI / 추천 기능 구현 |
 
 <br>
 
