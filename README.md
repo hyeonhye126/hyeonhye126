@@ -91,9 +91,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  ![Hyeonhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonhye126&show_icons=true&theme=default)
+  ![Hyeonhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonhye126&show_icons=true&theme=default&count_private=true&cache_seconds=60)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonhye126&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonhye126&layout=compact&cache_seconds=60)
 
 </div>  
 
