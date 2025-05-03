@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
 ### Cloud / Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white)
