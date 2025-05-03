@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ## 🙋‍♀️ About Me
-- 🔥 클라우드, 인프라, AI 기술에 관심이 많은 개발자 박현혜입니다.
+- 🔥 클라우드, AI 기술에 관심이 많은 개발자 박현혜입니다.
 - 📚 컴퓨터 네트워크, 클라우드 아키텍처, Docker, Kubernetes, DevOps에 대해 꾸준히 학습하고 있습니다.
 - ✉️ Contact: hyeonhye126@gmail.com
 
@@ -58,15 +58,6 @@ Here are some ideas to get you started:
 - **경기여자고등학교** (2015.03 ~ 2018.02)  
 
 <br>
-
-## 🚀 Projects
-
-| 프로젝트명 | 설명 | 기간 | 역할 |
-|-----------|------|------|------|
-| [Devita](https://github.com/hyeonhye126/ktb-devita-hh) | 개발자 맞춤 미션 추천 서비스 | 2024.09 ~ 2024.12 | AI / LLM 기반 미션 생성 |
-| [Cheer You](https://github.com/hyeonhye126/cheeryou-capstone-hh) | 현대인의 우울증 완화를 위한 심리 상담 APP | 2024.03 ~ 2024.06 | AI / 심리 상담 기능 기획 및 개발 |
-| [Boda](https://github.com/hyeonhye126/ktb-boda-hh) | 여행지 추천 모델 및 Flask API 구현 | 2024.09 ~ 2024.10 | AI / ML 모델 학습, API 일부 설계 |
-| [SBA Cosmetic Recommender](https://github.com/hyeonhye126/sba-cosmetic-recommender) | 리뷰 점수를 기반으로 한 화장품 추천 시스템 | 2023.12 ~ 2024.01 | AI / 추천 기능 구현 |
 
 ## 🚀 Projects
 
