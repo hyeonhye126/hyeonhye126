@@ -30,7 +30,32 @@ Here are some ideas to get you started:
 - **Languages**: Python  
 - **Cloud / Infra**: AWS, Docker  
 - **AI Frameworks**: PyTorch, LangChain  
-- **Tools**: Git, VSCode, Notion, Jira
+- **Tools**: Git, Notion, Jira
+
+<br>
+
+## 🏅 Certifications
+
+- **SQLD (SQL 개발자)**  
+  취득일: 2025.04.04
+
+- **ADSP (데이터분석준전문가)**  
+  취득일: 2024.11.29 
+
+- **TOEIC Speaking Test - IH (Intermediate High)**  
+  취득일: 2024.11.24  
+
+<br>
+
+## 🎓 Education
+- **카카오테크 부트캠프 1기** (2024.07 ~2024.12)  
+  생성형 AI 과정
+  
+- **세종대학교** (2019.03 ~ 2025.08)  
+  주전공: 지능기전공학부 무인이동체공학과 (소프트웨어융합대학)  
+  복수전공: 생명시스템학부 바이오융합공학과 (생명과학대학)
+
+- **경기여자고등학교** (2015.03 ~ 2018.02)  
 
 <br>
 
@@ -59,31 +84,6 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
-
-<br>
-
-## 🏅 Certifications
-
-- **SQLD (SQL 개발자)**  
-  취득일: 2025.04.04
-
-- **ADSP (데이터분석준전문가)**  
-  취득일: 2024.11.29 
-
-- **TOEIC Speaking Test - IH (Intermediate High)**  
-  취득일: 2024.11.24  
-
-<br>
-
-## 🎓 Education
-- **카카오테크 부트캠프 1기** (2024.07 ~2024.12)  
-  생성형 AI 과정
-  
-- **세종대학교** (2019.03 ~ 2025.08)  
-  주전공: 지능기전공학부 무인이동체공학과 (소프트웨어융합대학)  
-  복수전공: 생명시스템학부 바이오융합공학과 (생명과학대학)
-
-- **경기여자고등학교** (2015.03 ~ 2018.02)  
 
 <br>
 
