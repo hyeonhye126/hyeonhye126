@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 🙋‍♀️ About Me
 - 🔥 클라우드, AI 기술에 관심이 많은 개발자 박현혜입니다.
-- 📚 컴퓨터 네트워크, 클라우드 아키텍처, Docker, Kubernetes, DevOps에 대해 꾸준히 학습하고 있습니다.
+- 📚 컴퓨터 네트워크, 클라우드 아키텍처, Docker, Kubernetes에 대해 꾸준히 학습하고 있습니다.
   
 <br>
 
