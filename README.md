@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 ## 🙋‍♀️ About Me
 - 🔥 클라우드, AI 기술에 관심이 많은 개발자 박현혜입니다.
-- 📚 컴퓨터 네트워크, 클라우드 아키텍처, Docker, Kubernetes에 대해 꾸준히 학습하고 있습니다.
+- 📚 컴퓨터 네트워크, 클라우드 아키텍처, Docker, Kubernetes에 대해 학습하고 있습니다!
   
 <br>
 
 ## 🛠 Tech Stack  
 - **Languages**: Python  
-- **Cloud / Infra**: AWS, Docker  
+- **Cloud / Infra**: Linux, AWS, Docker  
 - **AI Frameworks**: PyTorch, LangChain  
 - **Tools**: Git, Notion, Jira
 
@@ -36,13 +36,8 @@ Here are some ideas to get you started:
 ## 🏅 Certifications
 
 - **SQLD (SQL 개발자)**  
-  취득일: 2025.04.04
-
 - **ADSP (데이터분석준전문가)**  
-  취득일: 2024.11.29 
-
 - **TOEIC Speaking Test - IH (Intermediate High)**  
-  취득일: 2024.11.24  
 
 <br>
 
