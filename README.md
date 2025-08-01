@@ -62,19 +62,7 @@ Here are some ideas to get you started:
 | [Boda](https://github.com/hyeonhye126/ktb-boda-hh) | 여행지 추천 모델 및<br>Flask API 구현 | 2024.09 ~ 2024.10 | AI / ML 모델 학습, API 일부 설계 |
 | [SBA Cosmetic Recommender](https://github.com/hyeonhye126/sba-cosmetic-recommender) | 리뷰 점수를 기반으로 한<br>화장품 추천 시스템 | 2023.12 ~ 2024.01 | AI / 추천 기능 구현 |
 
-
 <br>
-
-## 🏅 Baekjoon Tier
-
-<div align="center">
-
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeonhye126" alt="baekjoon" />
-
-</div>  
-
-<br>
-
 <!-- Footer처럼 귀여운 문구 -->
 <p align="center">
   ✨ 꾸준히 성장하는 개발자가 되겠습니다 ✨
