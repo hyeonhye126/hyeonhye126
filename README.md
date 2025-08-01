@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 🛠 Tech Stack  
-- **Languages**: Python  
+- **Languages**: Python, SQL
 - **Cloud / Infra**: Linux, AWS, Docker  
 - **AI Frameworks**: Tensorflow, Pytorch, LangChain  
 - **Tools**: Git, Notion, Jira
