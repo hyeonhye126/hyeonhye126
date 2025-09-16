@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 🏅 Certifications
-
+- **정보처리기사**
 - **SQLD (SQL 개발자)**  
 - **ADSP (데이터분석준전문가)**  
 - **TOEIC Speaking Test - IH (Intermediate High)**  
