@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## 🏅 Certifications
 - **정보처리기사**
-- **리눅스 마스터 2급**
+- **리눅스마스터 2급**
 - **SQLD (SQL 개발자)**  
 - **ADsP (데이터분석준전문가)**  
 - **TOEIC Speaking Test - IH (Intermediate High)**  
