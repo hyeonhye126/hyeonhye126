@@ -13,7 +13,7 @@ AWS · Kubernetes · Docker를 활용한 효율적인 배포 파이프라인 구
 </div>
 
 <p align="center">
-  <code>Infrastructure as Code</code> | <code>CI/CD</code> | <code>Container Orchestration</code> | <code>Cloud Native</code> | 
+  <code>Infrastructure as Code</code> | <code>CI/CD</code> | <code>Container Orchestration</code> | <code>Cloud Native</code>
 </p>
 
 <br>
