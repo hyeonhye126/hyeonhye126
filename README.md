@@ -13,10 +13,10 @@ AWS · Kubernetes · Docker를 활용한 효율적인 배포 파이프라인 구
 </div>
 
 <p align="center">
-  <code>Infrastructure as Code</code> | <code>CI/CD</code> | <code>Container Orchestration</code> | <code>Cloud Native</code>
+  <code>Infrastructure as Code</code> | <code>CI/CD</code> | <code>Container Orchestration</code> | <code>Cloud Native</code> | 
 </p>
 
----
+<br>
 
 ## 🛠 Tech Stack
 
@@ -45,7 +45,7 @@ AWS · Kubernetes · Docker를 활용한 효율적인 배포 파이프라인 구
 
 </div>
 
----
+<br>
 
 ## 🏅 Certifications
 
@@ -58,7 +58,7 @@ AWS · Kubernetes · Docker를 활용한 효율적인 배포 파이프라인 구
 • TOEIC Speaking Test - IH | ETS
 ```
 
----
+<br>
 
 ## 📚 Education
 
@@ -72,11 +72,11 @@ AWS · Kubernetes · Docker를 활용한 효율적인 배포 파이프라인 구
 
 **☁️ 경기여자고등학교** `2015.03 ~ 2018.02`
 
----
+<br>
 
 ## 🚀 Projects
 
-<table>
+<table width="100%">
 <thead>
   <tr>
     <th width="20%">프로젝트명</th>
@@ -133,9 +133,10 @@ AWS · Kubernetes · Docker를 활용한 효율적인 배포 파이프라인 구
 </tbody>
 </table>
 
----
+<br>
 
 <div align="center">
+
 
 ### 💻 Baekjoon
 
