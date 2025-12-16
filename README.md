@@ -62,9 +62,9 @@ AWS · Kubernetes · Docker를 활용한 효율적인 배포 파이프라인 구
 
 ## 📚 Education
 
-**☁️ Goorm PROPECT 4th - Cloud Engineering** `2025.10 ~ 2025.12`
+**☁️ goorm PROPECT 4th - Cloud Engineering** `2025.10 ~ 2025.12`
 
-**☁️ Kakaotech Bootcamp 1st - Generative AI** `2024.07 ~ 2024.12`
+**☁️ kakaotech bootcamp 1st - Generative AI** `2024.07 ~ 2024.12`
 
 **☁️ 세종대학교** `2019.03 ~ 2025.08`  
 - 주전공: 지능기전공학부 무인이동체공학과 (소프트웨어융합대학)  
