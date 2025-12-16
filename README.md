@@ -78,7 +78,7 @@ AWS · Kubernetes · Docker를 활용한 효율적인 배포 파이프라인 구
 
 | **프로젝트명** | **설명** | **기간** | **주요 역할** |
 |:--|:--|:--:|:--|
-| [**🍔 goormEats**] | 음식 배달 서비스 플랫폼<br>클라우드 기반 배달 시스템 구축 | 2025.10 ~ 2025.12 | DevOps / CI·CD 파이프라인 구축 |
+| **🍔 goormEats** | 음식 배달 서비스 플랫폼<br>클라우드 기반 배달 시스템 구축 | 2025.10 ~ 2025.12 | DevOps / CI·CD 파이프라인 구축 |
 | **☕ CoffeeChat** | 1:1 커피챗 매칭 플랫폼<br>클라우드 인프라 최적화 및 성능 테스트 | 2025.09 ~ 2025.10 | Cloud / 모니터링 & 부하테스트 |
 | [**🎯 Devita**](https://github.com/hyeonhye126/ktb-devita-hh) | 개발자 맞춤 미션 추천 서비스<br>LLM 기반 개인화 학습 미션 생성 | 2024.09 ~ 2024.12 | AI / LLM 기반 미션 생성 |
 | [**💙 Cheer You**](https://github.com/hyeonhye126/cheeryou-capstone-hh) | 현대인의 우울증 완화를 위한 심리 상담 APP<br>AI 기반 감정 분석 및 맞춤 상담 제공 | 2024.03 ~ 2024.06 | AI / 심리 상담 기능 기획 및 개발 |
