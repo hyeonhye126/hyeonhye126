@@ -5,13 +5,13 @@
   
 ## 🙋‍♀️ About Me
 
-**안녕하세요! DevOps 엔지니어를 꿈꾸는 박현혜입니다.**
-
-클라우드 인프라 구축과 자동화에 열정을 가지고 있으며,  
-AWS · Kubernetes · Docker를 활용한 효율적인 배포 파이프라인 구축에 관심이 많습니다.
+안녕하세요!  
+  
+서비스의 안정성과 개발 생산성을 동시에 고민하는  
+DevOps 엔지니어를 목표로 하는 박현혜입니다.  
 
 </div>
-
+<br>
 <p align="center">
   <code>Infrastructure as Code</code> | <code>CI/CD</code> | <code>Container Orchestration</code> | <code>Cloud Native</code>
 </p>
